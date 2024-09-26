@@ -10,8 +10,6 @@ The voice samples were generated using PlayHT 2.0’s text-to-speech functionali
 
 ### Steps to Recreate:
 
-### Steps to Recreate:
-
 1. **Prepare Text**: A set of test phrases and sentences was prepared to cover a range of use cases for STT models, including common phrases and complex sentences.
 2. **Visit PlayHT**: Go to the [PlayHT 2.0 website](https://play.ht) and log in.
 3. **Input Text**: Copy the test phrases into PlayHT’s text-to-speech section.
