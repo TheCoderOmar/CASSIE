@@ -18,6 +18,26 @@
     {
       "sample_name": "sample_5",
       "transcription": "Could you explain the tuition fees for programs at Arab Academy?"
+    },
+    {
+      "sample_name": "sample_6",
+      "transcription": "Could you, uhm, tell me what documents are needed for admission to the Arab Academy?"
+    },
+    {
+      "sample_name": "sample_7",
+      "transcription": "Can you explain, uhh, the process for applying for scholarships at Arab Academy?"
+    },
+    {
+      "sample_name": "sample_8",
+      "transcription": "What should I do, uhm, if I want to change my major at Arab Academy?"
+    },
+    {
+      "sample_name": "sample_9",
+      "transcription": "Is there, uhh, any orientation for new students at Arab Academy?"
+    },
+    {
+      "sample_name": "sample_10",
+      "transcription": "How do I get in touch with an academic advisor, uhm, at Arab Academy?"
     }
   ]
   
